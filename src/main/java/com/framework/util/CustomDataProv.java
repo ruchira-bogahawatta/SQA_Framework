@@ -7,7 +7,7 @@ public class CustomDataProv {
     @DataProvider(name = "loginCredentials")
     public Object[][] getData() {
         return new Object[][]{
-                {"geyana8544@inikale.com", "SamWin123", "https://pepperstreet.co/account"},
+                {"geyana8544@inikale.com", "SamWin123", "https://pepperstreet.co/account/login"},
         };
     }
 
